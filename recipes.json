@@ -1,0 +1,529 @@
+[
+  {
+    "id": "chicken-biryani",
+    "name": "Chicken Biryani",
+    "cuisine": "Pakistani",
+    "category": "Main Course",
+    "image_query": "chicken biryani pakistani rice dish",
+    "prep_time": "40 min",
+    "cook_time": "1 hr",
+    "servings": 6,
+    "ingredients": [
+      "1 kg chicken, cut into pieces",
+      "3 cups basmati rice, soaked 30 min",
+      "1 cup yogurt",
+      "3 large onions, thinly sliced and fried (birista)",
+      "3 tomatoes, chopped",
+      "2 tbsp ginger garlic paste",
+      "2-3 green chilies, slit",
+      "1/2 cup cooking oil",
+      "2 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "2 tbsp biryani masala powder",
+      "A few strands of saffron soaked in 2 tbsp warm milk",
+      "Fresh coriander and mint leaves",
+      "Whole spices: 2 bay leaves, 4 cloves, 4 green cardamoms, 1 cinnamon stick",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Marinate chicken with yogurt, ginger garlic paste, red chili powder, turmeric, salt and half the biryani masala for at least 30 minutes.",
+      "Heat oil in a pot, add whole spices, then add marinated chicken and cook until oil separates.",
+      "Add chopped tomatoes and green chilies, cook until chicken is tender and gravy thickens.",
+      "Separately, boil the soaked rice in salted water with whole spices until 70% cooked, then drain.",
+      "Layer half the rice over the chicken gravy, sprinkle fried onions, mint, coriander and saffron milk. Repeat with remaining rice on top.",
+      "Cover with a tight lid (or dough seal) and cook on low heat (dum) for 20-25 minutes.",
+      "Gently mix before serving hot with raita."
+    ]
+  },
+  {
+    "id": "beef-biryani",
+    "name": "Beef Biryani",
+    "cuisine": "Pakistani",
+    "category": "Main Course",
+    "image_query": "beef biryani rice dish",
+    "prep_time": "40 min",
+    "cook_time": "1.5 hr",
+    "servings": 6,
+    "ingredients": [
+      "1 kg beef, cubed",
+      "3 cups basmati rice, soaked",
+      "1 cup yogurt",
+      "3 onions, sliced and fried",
+      "3 tomatoes, chopped",
+      "2 tbsp ginger garlic paste",
+      "Whole spices (bay leaf, cardamom, cinnamon, cloves)",
+      "2 tsp red chili powder",
+      "1 tsp turmeric",
+      "2 tbsp biryani masala",
+      "Mint and coriander leaves",
+      "Saffron soaked in milk",
+      "Oil, salt to taste"
+    ],
+    "steps": [
+      "Marinate beef with yogurt, ginger garlic paste and spices for 1 hour.",
+      "Cook marinated beef in oil with whole spices and tomatoes until tender (pressure cooking speeds this up).",
+      "Par-boil the rice with whole spices until 70% done, then drain.",
+      "Layer rice over the beef gravy with fried onions, herbs and saffron milk.",
+      "Seal and cook on dum (low heat) for 20-25 minutes.",
+      "Mix gently and serve hot."
+    ]
+  },
+  {
+    "id": "chicken-karahi",
+    "name": "Chicken Karahi",
+    "cuisine": "Pakistani",
+    "category": "Main Course",
+    "image_query": "chicken karahi pakistani curry",
+    "prep_time": "10 min",
+    "cook_time": "30 min",
+    "servings": 4,
+    "ingredients": [
+      "1 kg chicken, cut into pieces",
+      "4 tomatoes, pureed or chopped",
+      "1/2 cup cooking oil",
+      "2 tbsp ginger garlic paste",
+      "4-5 green chilies",
+      "1 tsp red chili flakes",
+      "1 tsp black pepper powder",
+      "1 tsp cumin seeds",
+      "Fresh ginger julienne and coriander for garnish",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil in a karahi (wok), add chicken pieces and cook on high heat until they change color.",
+      "Add ginger garlic paste and cook for 2 minutes.",
+      "Add tomatoes and cook until they break down and oil separates.",
+      "Add salt, red chili flakes, black pepper and green chilies, cook until chicken is tender.",
+      "Garnish with ginger julienne and coriander, serve hot with naan."
+    ]
+  },
+  {
+    "id": "mutton-karahi",
+    "name": "Mutton Karahi",
+    "cuisine": "Pakistani",
+    "category": "Main Course",
+    "image_query": "mutton karahi curry",
+    "prep_time": "15 min",
+    "cook_time": "1 hr",
+    "servings": 4,
+    "ingredients": [
+      "1 kg mutton, cut into pieces",
+      "4 tomatoes, chopped",
+      "1/2 cup oil or ghee",
+      "2 tbsp ginger garlic paste",
+      "4 green chilies",
+      "1 tsp red chili flakes",
+      "1 tsp crushed black pepper",
+      "1 tsp cumin seeds",
+      "Coriander and ginger julienne for garnish",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil, add mutton and cook on high heat until browned.",
+      "Add ginger garlic paste and cumin seeds, cook briefly.",
+      "Add tomatoes, salt and a little water, cover and simmer until mutton is tender (45-60 min).",
+      "Once oil separates, add chili flakes, black pepper and green chilies.",
+      "Garnish and serve hot with roti."
+    ]
+  },
+  {
+    "id": "nihari",
+    "name": "Nihari",
+    "cuisine": "Pakistani",
+    "category": "Main Course",
+    "image_query": "nihari pakistani beef stew",
+    "prep_time": "20 min",
+    "cook_time": "3 hr",
+    "servings": 6,
+    "ingredients": [
+      "1 kg beef shank with bone marrow",
+      "1/2 cup oil or ghee",
+      "1 onion, sliced",
+      "2 tbsp ginger garlic paste",
+      "3 tbsp nihari masala (or homemade blend of chili, coriander, fennel, garam masala)",
+      "1/4 cup wheat flour, mixed with water into a paste",
+      "Ginger julienne, coriander, lemon and green chilies for garnish",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil, fry sliced onion until golden, then add ginger garlic paste and nihari masala.",
+      "Add beef shank pieces and cook until sealed on all sides.",
+      "Add enough water to cover the meat, cover and simmer on low heat for 3-4 hours until meat is falling off the bone (or pressure cook to save time).",
+      "Stir in the wheat flour paste slowly to thicken the gravy, simmer for another 15 minutes.",
+      "Serve hot topped with ginger julienne, coriander, green chilies and a squeeze of lemon."
+    ]
+  },
+  {
+    "id": "haleem",
+    "name": "Haleem",
+    "cuisine": "Pakistani",
+    "category": "Main Course",
+    "image_query": "haleem pakistani lentil meat porridge",
+    "prep_time": "30 min (plus soaking)",
+    "cook_time": "2.5 hr",
+    "servings": 6,
+    "ingredients": [
+      "500g beef or chicken, cut into pieces",
+      "1 cup mixed lentils (chana daal, masoor, moong), soaked",
+      "1/2 cup broken wheat or barley, soaked",
+      "2 onions, sliced and fried",
+      "2 tbsp ginger garlic paste",
+      "1 tsp turmeric",
+      "1 tbsp red chili powder",
+      "1 tbsp garam masala",
+      "Ghee, fresh coriander, mint, lemon, ginger julienne for garnish",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Boil meat with ginger garlic paste, turmeric and salt until very tender; shred the meat finely.",
+      "Separately boil soaked lentils and wheat/barley until completely soft, then blend into a coarse paste.",
+      "Combine the meat and lentil-wheat mixture, cook together on low heat, stirring often, until it reaches a thick porridge consistency.",
+      "Add red chili powder and garam masala, simmer for 20 more minutes.",
+      "Top with fried onions, ghee, ginger julienne, coriander, mint and a squeeze of lemon before serving."
+    ]
+  },
+  {
+    "id": "chicken-pulao",
+    "name": "Chicken Pulao",
+    "cuisine": "Pakistani",
+    "category": "Main Course",
+    "image_query": "chicken pulao rice",
+    "prep_time": "15 min",
+    "cook_time": "45 min",
+    "servings": 5,
+    "ingredients": [
+      "1 kg chicken",
+      "3 cups basmati rice, soaked",
+      "2 onions, sliced",
+      "2 tbsp ginger garlic paste",
+      "4 cups chicken stock (from boiling the chicken)",
+      "Whole spices: cumin, cardamom, cinnamon, bay leaf",
+      "2 tbsp pulao/chicken masala",
+      "Oil, salt to taste"
+    ],
+    "steps": [
+      "Boil chicken with whole spices to make a flavorful stock; remove chicken and set aside.",
+      "In a pot, fry onions in oil until golden, add ginger garlic paste and chicken pieces, lightly fry.",
+      "Add pulao masala and the reserved stock, bring to a boil.",
+      "Add soaked rice, adjust salt, cover and cook on low heat until rice is fully cooked and fluffy.",
+      "Fluff gently with a fork and serve hot with raita."
+    ]
+  },
+  {
+    "id": "seekh-kebab",
+    "name": "Seekh Kebab",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "seekh kebab grilled meat skewers",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "servings": 4,
+    "ingredients": [
+      "500g minced beef or mutton",
+      "1 onion, finely chopped and squeezed dry",
+      "2 tbsp ginger garlic paste",
+      "2 green chilies, finely chopped",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1 tsp red chili powder",
+      "Fresh coriander, chopped",
+      "1 egg (optional, for binding)",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Mix mince with onion, ginger garlic paste, chilies, spices, coriander and salt until well combined.",
+      "Cover and let it rest in the fridge for at least 20 minutes so it firms up.",
+      "Shape the mixture around skewers into long kebabs.",
+      "Grill over charcoal or cook on a hot pan/tawa, turning occasionally, until cooked through and charred on the outside.",
+      "Serve hot with naan, chutney and salad."
+    ]
+  },
+  {
+    "id": "chapli-kebab",
+    "name": "Chapli Kebab",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "chapli kebab peshawari",
+    "prep_time": "20 min",
+    "cook_time": "20 min",
+    "servings": 4,
+    "ingredients": [
+      "500g minced beef",
+      "1 onion, finely chopped",
+      "2 tomatoes, finely chopped",
+      "2 green chilies, chopped",
+      "2 tbsp ginger garlic paste",
+      "1 tbsp crushed coriander seeds",
+      "1 tbsp crushed pomegranate seeds (anardana)",
+      "1 tsp red chili flakes",
+      "2 tbsp cornflour or gram flour",
+      "Oil for shallow frying",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Mix mince with onion, tomato, chilies, ginger garlic paste, spices, anardana and gram flour until well combined.",
+      "Shape into flat, round patties.",
+      "Shallow fry in hot oil on medium heat until golden brown and cooked through on both sides.",
+      "Serve hot with naan and salad."
+    ]
+  },
+  {
+    "id": "aloo-gosht",
+    "name": "Aloo Gosht (Meat & Potato Curry)",
+    "cuisine": "Pakistani",
+    "category": "Main Course",
+    "image_query": "aloo gosht potato meat curry",
+    "prep_time": "15 min",
+    "cook_time": "1 hr",
+    "servings": 5,
+    "ingredients": [
+      "1 kg mutton or beef, cubed",
+      "4 potatoes, peeled and halved",
+      "2 onions, sliced",
+      "3 tomatoes, chopped",
+      "2 tbsp ginger garlic paste",
+      "1 tsp turmeric",
+      "1 tbsp red chili powder",
+      "1 tbsp coriander powder",
+      "Oil, fresh coriander for garnish",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Fry onions in oil until golden, add ginger garlic paste and meat, cook until browned.",
+      "Add tomatoes and spices, cook until oil separates.",
+      "Add water, cover and simmer until meat is nearly tender.",
+      "Add potatoes and cook until both meat and potatoes are fully tender.",
+      "Garnish with coriander and serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "kimchi-jjigae",
+    "name": "Kimchi Jjigae (Kimchi Stew)",
+    "cuisine": "Korean",
+    "category": "Main Course",
+    "image_query": "kimchi jjigae korean stew",
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "servings": 2,
+    "ingredients": [
+      "2 cups ripened kimchi, chopped, with some of its juice",
+      "200g pork belly or spam, sliced (optional for non-veg version)",
+      "1 block tofu, cubed",
+      "1/2 onion, sliced",
+      "1 spring onion, chopped",
+      "1 tbsp gochugaru (Korean chili flakes)",
+      "1 tsp gochujang (Korean chili paste)",
+      "2 cups water or anchovy stock",
+      "1 tsp sesame oil",
+      "1 clove garlic, minced"
+    ],
+    "steps": [
+      "In a pot, stir-fry the kimchi and pork (if using) in sesame oil for a few minutes.",
+      "Add water or stock, garlic, gochugaru and gochujang, bring to a boil.",
+      "Simmer for 10-15 minutes until the kimchi softens and flavors meld.",
+      "Add tofu and onion, simmer for 5 more minutes.",
+      "Garnish with spring onion and serve hot with steamed rice."
+    ]
+  },
+  {
+    "id": "bibimbap",
+    "name": "Bibimbap",
+    "cuisine": "Korean",
+    "category": "Main Course",
+    "image_query": "bibimbap korean rice bowl",
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "servings": 2,
+    "ingredients": [
+      "2 cups cooked short-grain rice",
+      "1 carrot, julienned and sauteed",
+      "1 cup spinach, blanched and seasoned",
+      "1 cup bean sprouts, blanched and seasoned",
+      "1 zucchini, julienned and sauteed",
+      "150g beef bulgogi (marinated and cooked, see Bulgogi recipe)",
+      "2 eggs, fried sunny-side up",
+      "2 tbsp gochujang",
+      "1 tsp sesame oil",
+      "Sesame seeds for garnish"
+    ],
+    "steps": [
+      "Prepare each vegetable separately: saute carrot and zucchini, blanch and season spinach and bean sprouts with sesame oil and salt.",
+      "Cook the beef bulgogi in a hot pan until caramelized.",
+      "Fry the eggs sunny-side up, keeping yolks runny.",
+      "Place rice in a bowl, arrange vegetables and beef around the edges in sections, top with a fried egg.",
+      "Add a spoonful of gochujang in the center, sprinkle sesame seeds, and mix everything together before eating."
+    ]
+  },
+  {
+    "id": "bulgogi",
+    "name": "Bulgogi (Korean Marinated Beef)",
+    "cuisine": "Korean",
+    "category": "Main Course",
+    "image_query": "bulgogi korean grilled beef",
+    "prep_time": "20 min (plus marinating)",
+    "cook_time": "15 min",
+    "servings": 4,
+    "ingredients": [
+      "500g thinly sliced beef (ribeye or sirloin)",
+      "1/2 pear, grated",
+      "4 tbsp soy sauce",
+      "2 tbsp brown sugar",
+      "1 tbsp sesame oil",
+      "3 cloves garlic, minced",
+      "1 tsp ginger, minced",
+      "1 onion, sliced",
+      "2 spring onions, chopped",
+      "1 tbsp toasted sesame seeds",
+      "Black pepper to taste"
+    ],
+    "steps": [
+      "Mix grated pear, soy sauce, brown sugar, sesame oil, garlic, ginger and pepper into a marinade.",
+      "Marinate the beef slices for at least 30 minutes (longer for more flavor).",
+      "Heat a pan or grill on high heat, cook the marinated beef with onions until caramelized and cooked through, about 5-7 minutes.",
+      "Garnish with spring onions and sesame seeds, serve with rice and lettuce wraps."
+    ]
+  },
+  {
+    "id": "japchae",
+    "name": "Japchae (Stir-fried Glass Noodles)",
+    "cuisine": "Korean",
+    "category": "Main Course",
+    "image_query": "japchae korean glass noodles",
+    "prep_time": "20 min",
+    "cook_time": "20 min",
+    "servings": 4,
+    "ingredients": [
+      "200g Korean sweet potato glass noodles (dangmyeon)",
+      "150g beef, thinly sliced (optional)",
+      "1 carrot, julienned",
+      "1 onion, sliced",
+      "2 cups spinach",
+      "3 shiitake mushrooms, sliced",
+      "4 tbsp soy sauce",
+      "2 tbsp sugar",
+      "2 tbsp sesame oil",
+      "2 cloves garlic, minced",
+      "Sesame seeds for garnish"
+    ],
+    "steps": [
+      "Boil the glass noodles according to package instructions, drain and toss with a little sesame oil and soy sauce.",
+      "Blanch spinach briefly, season with salt and sesame oil.",
+      "Stir-fry carrot, onion, mushrooms and beef (if using) separately with garlic, soy sauce and sugar until cooked.",
+      "Combine noodles with all the vegetables and beef in a large bowl, toss well with remaining soy sauce and sesame oil.",
+      "Garnish with sesame seeds and serve warm or at room temperature."
+    ]
+  },
+  {
+    "id": "tteokbokki",
+    "name": "Tteokbokki (Spicy Rice Cakes)",
+    "cuisine": "Korean",
+    "category": "Snack",
+    "image_query": "tteokbokki korean rice cakes",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 3,
+    "ingredients": [
+      "400g Korean rice cakes (tteok)",
+      "1 cup fish cakes, sliced (optional)",
+      "2 cups water or anchovy stock",
+      "3 tbsp gochujang",
+      "1 tbsp gochugaru",
+      "1 tbsp sugar",
+      "1 tbsp soy sauce",
+      "1 spring onion, chopped",
+      "1 boiled egg (optional, for serving)"
+    ],
+    "steps": [
+      "If rice cakes are hard/refrigerated, soak them in warm water for 10-15 minutes to soften.",
+      "In a pan, combine stock, gochujang, gochugaru, sugar and soy sauce, bring to a simmer.",
+      "Add rice cakes and fish cakes, cook until the sauce thickens and coats the rice cakes, stirring occasionally to prevent sticking.",
+      "Garnish with spring onion and serve hot, with a boiled egg on the side if desired."
+    ]
+  },
+  {
+    "id": "kimbap",
+    "name": "Kimbap",
+    "cuisine": "Korean",
+    "category": "Snack",
+    "image_query": "kimbap korean rice roll",
+    "prep_time": "30 min",
+    "cook_time": "15 min",
+    "servings": 3,
+    "ingredients": [
+      "3 cups cooked short-grain rice, seasoned with sesame oil and salt",
+      "4 sheets roasted seaweed (gim/nori)",
+      "1 carrot, julienned and sauteed",
+      "1 cucumber, cut into strips",
+      "2 eggs, made into a thin omelette and sliced into strips",
+      "200g spinach, blanched and seasoned",
+      "4 imitation crab sticks or ham strips",
+      "Pickled radish (danmuji) strips",
+      "Sesame oil and sesame seeds"
+    ],
+    "steps": [
+      "Lay a seaweed sheet on a bamboo mat, spread a thin layer of seasoned rice leaving a small border at the top.",
+      "Arrange carrot, cucumber, egg, spinach, crab stick and pickled radish in a line across the rice.",
+      "Using the mat, roll tightly from the bottom, sealing the edge with a little water.",
+      "Brush the roll lightly with sesame oil, then slice into bite-sized pieces with a sharp knife.",
+      "Repeat with remaining ingredients and serve at room temperature."
+    ]
+  },
+  {
+    "id": "korean-fried-chicken",
+    "name": "Korean Fried Chicken",
+    "cuisine": "Korean",
+    "category": "Snack",
+    "image_query": "korean fried chicken glazed",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "servings": 4,
+    "ingredients": [
+      "1 kg chicken wings or drumettes",
+      "1 cup cornstarch",
+      "Oil for deep frying",
+      "Salt and pepper",
+      "For the sauce: 4 tbsp gochujang",
+      "3 tbsp honey or corn syrup",
+      "2 tbsp soy sauce",
+      "2 cloves garlic, minced",
+      "1 tbsp rice vinegar",
+      "Sesame seeds for garnish"
+    ],
+    "steps": [
+      "Season chicken with salt and pepper, coat well in cornstarch.",
+      "Deep fry in batches at medium heat until golden and cooked through, about 8-10 minutes. Remove and drain.",
+      "Fry a second time briefly at higher heat for extra crispiness, then drain again.",
+      "In a pan, combine gochujang, honey, soy sauce, garlic and rice vinegar, simmer until slightly thickened.",
+      "Toss the fried chicken in the sauce until well coated, garnish with sesame seeds and serve immediately."
+    ]
+  },
+  {
+    "id": "sundubu-jjigae",
+    "name": "Sundubu Jjigae (Soft Tofu Stew)",
+    "cuisine": "Korean",
+    "category": "Main Course",
+    "image_query": "sundubu jjigae korean tofu stew",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 2,
+    "ingredients": [
+      "1 tube soft/silken tofu",
+      "100g minced pork or beef (optional)",
+      "1/2 onion, chopped",
+      "2 tbsp gochugaru",
+      "1 tbsp gochujang",
+      "2 cloves garlic, minced",
+      "2 cups anchovy or vegetable stock",
+      "1 egg",
+      "1 spring onion, chopped",
+      "1 tsp sesame oil"
+    ],
+    "steps": [
+      "In a pot, cook minced meat (if using) with sesame oil, garlic and onion until browned.",
+      "Add gochugaru and gochujang, stir briefly, then add stock and bring to a boil.",
+      "Gently spoon in the soft tofu (don't stir too hard, keep it chunky), simmer for 5-7 minutes.",
+      "Crack an egg into the center of the stew just before serving and let it cook slightly in the residual heat, or stir it in fully cooked.",
+      "Garnish with spring onion and serve bubbling hot with steamed rice."
+    ]
+  }
+]
