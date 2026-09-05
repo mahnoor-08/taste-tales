@@ -132,6 +132,7 @@
     "cuisine": "Pakistani",
     "category": "Main Course",
     "image_query": "nihari pakistani beef stew",
+    "image_local": "nihari.jpg",
     "prep_time": "20 min",
     "cook_time": "3 hr",
     "servings": 6,
@@ -159,6 +160,7 @@
     "cuisine": "Pakistani",
     "category": "Main Course",
     "image_query": "haleem pakistani lentil meat porridge",
+    "image_local": "haleem.jpg",
     "prep_time": "30 min (plus soaking)",
     "cook_time": "2.5 hr",
     "servings": 6,
@@ -524,6 +526,570 @@
       "Gently spoon in the soft tofu (don't stir too hard, keep it chunky), simmer for 5-7 minutes.",
       "Crack an egg into the center of the stew just before serving and let it cook slightly in the residual heat, or stir it in fully cooked.",
       "Garnish with spring onion and serve bubbling hot with steamed rice."
+    ]
+  },
+  {
+    "id": "kheer",
+    "name": "Kheer",
+    "cuisine": "Pakistani",
+    "category": "Dessert",
+    "image_query": "kheer rice pudding pakistani dessert",
+    "prep_time": "10 min",
+    "cook_time": "40 min",
+    "servings": 6,
+    "ingredients": [
+      "1/4 cup rice, soaked 30 min",
+      "1.5 liters full-fat milk",
+      "1/2 cup sugar",
+      "1/2 tsp cardamom powder",
+      "Chopped almonds and pistachios",
+      "A few drops rose water (optional)"
+    ],
+    "steps": [
+      "Bring milk to a boil in a heavy-bottomed pot, then reduce to a simmer.",
+      "Add the soaked, drained rice and cook on low heat, stirring frequently, until the rice softens and the milk thickens (about 30 minutes).",
+      "Add sugar and cardamom powder, simmer for another 10 minutes until creamy.",
+      "Stir in rose water if using, then garnish with almonds and pistachios.",
+      "Serve warm or chilled."
+    ]
+  },
+  {
+    "id": "gulab-jamun",
+    "name": "Gulab Jamun",
+    "cuisine": "Pakistani",
+    "category": "Dessert",
+    "image_query": "gulab jamun dessert syrup",
+    "prep_time": "20 min",
+    "cook_time": "20 min",
+    "servings": 6,
+    "ingredients": [
+      "1 cup milk powder (khoya substitute)",
+      "3 tbsp all-purpose flour",
+      "1/4 tsp baking powder",
+      "2-3 tbsp milk, to bind",
+      "1 tbsp ghee",
+      "Oil or ghee for frying",
+      "1.5 cups sugar",
+      "1.5 cups water",
+      "2-3 green cardamoms",
+      "A few drops rose water"
+    ],
+    "steps": [
+      "Make sugar syrup by boiling sugar, water and cardamom together for 5-7 minutes; keep warm.",
+      "Mix milk powder, flour and baking powder, then bind into a soft dough using milk and ghee.",
+      "Shape into smooth, crack-free balls.",
+      "Fry on low-medium heat, stirring gently, until evenly deep brown all over.",
+      "Drop the hot fried balls into the warm syrup and let them soak for at least 1-2 hours before serving."
+    ]
+  },
+  {
+    "id": "gajar-ka-halwa",
+    "name": "Gajar ka Halwa",
+    "cuisine": "Pakistani",
+    "category": "Dessert",
+    "image_query": "gajar halwa carrot dessert",
+    "prep_time": "15 min",
+    "cook_time": "45 min",
+    "servings": 6,
+    "ingredients": [
+      "1 kg carrots, grated",
+      "1 liter milk",
+      "1/2 cup sugar",
+      "3 tbsp ghee",
+      "1/4 cup khoya (optional)",
+      "1/2 tsp cardamom powder",
+      "Chopped almonds and pistachios"
+    ],
+    "steps": [
+      "Cook grated carrots with milk on medium heat, stirring often, until the milk is mostly absorbed and reduced.",
+      "Add ghee and sugar, continue cooking until the mixture thickens further.",
+      "Stir in khoya (if using) and cardamom powder, cook for another 5-10 minutes.",
+      "Garnish with almonds and pistachios, serve warm."
+    ]
+  },
+  {
+    "id": "ras-malai",
+    "name": "Ras Malai",
+    "cuisine": "Pakistani",
+    "category": "Dessert",
+    "image_query": "ras malai dessert milk",
+    "prep_time": "30 min",
+    "cook_time": "30 min",
+    "servings": 6,
+    "ingredients": [
+      "1 liter milk (for chenna/paneer)",
+      "2 tbsp lemon juice or vinegar",
+      "1.5 cups sugar, for syrup",
+      "4 cups water, for syrup",
+      "1 liter milk, reduced for rabri",
+      "1/2 cup sugar, for rabri",
+      "A few saffron strands",
+      "1/2 tsp cardamom powder",
+      "Chopped pistachios"
+    ],
+    "steps": [
+      "Curdle the milk with lemon juice, strain and knead the chenna until smooth, then shape into small flat discs.",
+      "Boil the discs in sugar syrup for 15-20 minutes until they double in size and turn spongy.",
+      "Separately, simmer milk with sugar and saffron until reduced and slightly thickened to make the rabri.",
+      "Gently squeeze excess syrup from the discs and place them in the rabri.",
+      "Chill for a few hours, garnish with pistachios and cardamom before serving."
+    ]
+  },
+  {
+    "id": "jalebi",
+    "name": "Jalebi",
+    "cuisine": "Pakistani",
+    "category": "Dessert",
+    "image_query": "jalebi dessert spiral syrup",
+    "prep_time": "15 min (plus fermenting)",
+    "cook_time": "20 min",
+    "servings": 6,
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tbsp yogurt",
+      "1/4 tsp baking soda",
+      "Water, as needed for batter",
+      "Oil or ghee for frying",
+      "1.5 cups sugar",
+      "1 cup water",
+      "A pinch of saffron",
+      "1 tsp lemon juice"
+    ],
+    "steps": [
+      "Mix flour, yogurt and water into a smooth, pourable batter; let it ferment for a few hours or overnight.",
+      "Make sugar syrup with sugar, water, saffron and lemon juice, keep warm and slightly sticky.",
+      "Add baking soda to the batter just before frying.",
+      "Pipe the batter in spiral shapes into hot oil, fry until crisp and golden on both sides.",
+      "Immediately dip the fried jalebis into warm syrup for a minute, then serve hot."
+    ]
+  },
+  {
+    "id": "zarda",
+    "name": "Zarda",
+    "cuisine": "Pakistani",
+    "category": "Dessert",
+    "image_query": "zarda sweet rice pakistani",
+    "prep_time": "10 min",
+    "cook_time": "40 min",
+    "servings": 6,
+    "ingredients": [
+      "2 cups basmati rice, soaked",
+      "1 cup sugar",
+      "1/2 cup ghee",
+      "A few drops yellow/orange food color or saffron",
+      "4-5 green cardamoms",
+      "Chopped almonds, pistachios and raisins",
+      "1/4 cup khoya (optional)"
+    ],
+    "steps": [
+      "Boil the soaked rice with cardamom until about 70% cooked, then drain.",
+      "In a pot, melt ghee, add the rice and food color, gently mix to coat evenly.",
+      "Sprinkle sugar over the rice in layers, cover and cook on low heat (dum) until the rice is fully cooked and sugar has melted into a glossy coating.",
+      "Fold in khoya if using, garnish with nuts and raisins before serving."
+    ]
+  },
+  {
+    "id": "shahi-tukray",
+    "name": "Shahi Tukray",
+    "cuisine": "Pakistani",
+    "category": "Dessert",
+    "image_query": "shahi tukray bread dessert",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "servings": 5,
+    "ingredients": [
+      "6 slices white bread, edges trimmed",
+      "Ghee, for frying",
+      "1 liter milk",
+      "1/2 cup sugar",
+      "A few saffron strands",
+      "1/2 tsp cardamom powder",
+      "Chopped almonds and pistachios"
+    ],
+    "steps": [
+      "Fry the bread slices in ghee until golden and crisp on both sides.",
+      "Simmer milk with sugar, saffron and cardamom until thickened into a rabri-like consistency.",
+      "Arrange the fried bread slices in a serving dish and pour the warm rabri over them.",
+      "Garnish generously with almonds and pistachios, chill slightly before serving."
+    ]
+  },
+  {
+    "id": "samosa",
+    "name": "Samosa (Keema)",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "samosa fried pakistani snack",
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "servings": 6,
+    "ingredients": [
+      "12 samosa patti sheets (or homemade dough)",
+      "300g minced beef or chicken",
+      "1 onion, finely chopped",
+      "2 tbsp ginger garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Fresh coriander, chopped",
+      "Oil for frying",
+      "Flour paste, for sealing edges"
+    ],
+    "steps": [
+      "Cook the minced meat with onion, ginger garlic paste and spices until fully done and dry.",
+      "Cool the filling, then fold each samosa patti into a cone and fill with the mixture.",
+      "Seal the open edge with flour paste, pressing firmly.",
+      "Deep fry on medium heat until golden and crisp on all sides.",
+      "Serve hot with chutney."
+    ]
+  },
+  {
+    "id": "aloo-samosa",
+    "name": "Aloo Samosa",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "aloo samosa potato snack",
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "servings": 6,
+    "ingredients": [
+      "12 samosa patti sheets",
+      "4 potatoes, boiled and mashed",
+      "1/2 cup green peas",
+      "1 tsp cumin seeds",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "Fresh coriander, chopped",
+      "Oil for frying",
+      "Flour paste, for sealing"
+    ],
+    "steps": [
+      "Lightly saute cumin seeds, then mix in mashed potatoes, peas and all the spices.",
+      "Fold samosa patti into cones, fill with the potato mixture, and seal edges with flour paste.",
+      "Deep fry on medium heat until golden and crisp.",
+      "Serve hot with tamarind or mint chutney."
+    ]
+  },
+  {
+    "id": "chicken-samosa",
+    "name": "Chicken Samosa",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "chicken samosa fried snack",
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "servings": 6,
+    "ingredients": [
+      "12 samosa patti sheets",
+      "300g chicken, boiled and shredded",
+      "1 onion, finely chopped",
+      "2 green chilies, chopped",
+      "1 tsp ginger garlic paste",
+      "1 tsp red chili flakes",
+      "1/2 tsp black pepper",
+      "Fresh coriander, chopped",
+      "Oil for frying",
+      "Flour paste, for sealing"
+    ],
+    "steps": [
+      "Mix shredded chicken with onion, chilies, ginger garlic paste and spices.",
+      "Fold samosa patti into cones, fill with the chicken mixture, seal edges with flour paste.",
+      "Deep fry on medium heat until golden and crisp on all sides.",
+      "Serve hot with ketchup or chutney."
+    ]
+  },
+  {
+    "id": "spring-rolls",
+    "name": "Spring Rolls",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "spring rolls fried snack",
+    "prep_time": "25 min",
+    "cook_time": "15 min",
+    "servings": 5,
+    "ingredients": [
+      "12 spring roll wrappers",
+      "2 cups cabbage, shredded",
+      "1 carrot, julienned",
+      "1/2 cup boiled chicken or minced meat (optional)",
+      "2 tbsp soy sauce",
+      "1 tsp black pepper",
+      "2 cloves garlic, minced",
+      "Oil for frying",
+      "Flour paste, for sealing"
+    ],
+    "steps": [
+      "Stir-fry cabbage, carrot, garlic and chicken/meat (if using) on high heat with soy sauce and pepper until just tender.",
+      "Cool the filling completely, then place a spoonful onto each wrapper and roll tightly, sealing the edge with flour paste.",
+      "Deep fry until golden and crisp.",
+      "Serve hot with sweet chili or soy dip."
+    ]
+  },
+  {
+    "id": "dahi-bhallay",
+    "name": "Dahi Bhallay",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "dahi bhallay chaat yogurt",
+    "prep_time": "20 min (plus soaking)",
+    "cook_time": "20 min",
+    "servings": 5,
+    "ingredients": [
+      "1 cup split urad/moong lentils, soaked overnight",
+      "Oil for frying",
+      "3 cups yogurt, whisked smooth",
+      "1/2 cup tamarind chutney",
+      "1/4 cup mint-coriander chutney",
+      "1 tsp roasted cumin powder",
+      "1 tsp chaat masala",
+      "Red chili powder, to taste",
+      "Sev or crushed papdi, for garnish"
+    ],
+    "steps": [
+      "Blend the soaked lentils into a thick, fluffy batter, then deep fry spoonfuls into golden fritters (bhallay).",
+      "Soak the fried bhallay in warm water for 10 minutes to soften, then gently squeeze out excess water.",
+      "Arrange the bhallay in a dish and pour whisked yogurt generously over them.",
+      "Drizzle with tamarind and mint chutneys, sprinkle cumin powder, chaat masala and chili powder.",
+      "Top with sev and chill briefly before serving."
+    ]
+  },
+  {
+    "id": "chaat",
+    "name": "Aloo Chana Chaat",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "aloo chana chaat street food",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "servings": 4,
+    "ingredients": [
+      "2 potatoes, boiled and cubed",
+      "1 cup boiled chickpeas",
+      "1 onion, finely chopped",
+      "1 tomato, chopped",
+      "2 tbsp tamarind chutney",
+      "2 tbsp mint-coriander chutney",
+      "1 tsp chaat masala",
+      "1/2 tsp roasted cumin powder",
+      "Sev, for garnish",
+      "Lemon juice, to taste"
+    ],
+    "steps": [
+      "Combine potatoes, chickpeas, onion and tomato in a large bowl.",
+      "Add tamarind and mint chutneys, chaat masala, cumin powder and a squeeze of lemon.",
+      "Toss everything gently to coat evenly.",
+      "Top with sev and serve immediately."
+    ]
+  },
+  {
+    "id": "bun-kebab",
+    "name": "Bun Kebab",
+    "cuisine": "Pakistani",
+    "category": "Snack",
+    "image_query": "bun kebab pakistani burger",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "servings": 4,
+    "ingredients": [
+      "4 burger buns",
+      "4 pre-made aloo or chicken tikki patties",
+      "Oil, for shallow frying",
+      "4 eggs (optional, for egg-fried buns)",
+      "Sliced onion and tomato",
+      "Green chutney and ketchup",
+      "Chaat masala, to taste"
+    ],
+    "steps": [
+      "Shallow fry the patties until golden and cooked through on both sides.",
+      "If using egg, dip the bun briefly in beaten egg and lightly fry until set.",
+      "Spread green chutney and ketchup inside the bun.",
+      "Layer in the patty, onion and tomato, sprinkle chaat masala, and close the bun.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "hotteok",
+    "name": "Hotteok",
+    "cuisine": "Korean",
+    "category": "Dessert",
+    "image_query": "hotteok korean sweet pancake",
+    "prep_time": "20 min (plus rising)",
+    "cook_time": "15 min",
+    "servings": 4,
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 tsp instant yeast",
+      "1 tbsp sugar",
+      "3/4 cup warm milk",
+      "1 tbsp oil, plus more for cooking",
+      "1/2 cup brown sugar, for filling",
+      "1 tsp cinnamon powder",
+      "2 tbsp chopped peanuts or walnuts"
+    ],
+    "steps": [
+      "Mix flour, yeast, sugar, warm milk and oil into a soft dough; let it rise for about 1 hour until doubled.",
+      "Combine brown sugar, cinnamon and chopped nuts for the filling.",
+      "Divide dough into balls, flatten slightly, add a spoonful of filling, and seal into a ball again.",
+      "Flatten the filled dough on a hot, oiled griddle with a spatula and cook until golden on both sides, pressing gently so the filling melts.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "bingsu",
+    "name": "Bingsu",
+    "cuisine": "Korean",
+    "category": "Dessert",
+    "image_query": "bingsu korean shaved ice dessert",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "servings": 2,
+    "ingredients": [
+      "4 cups finely shaved ice (or crushed ice)",
+      "1/2 cup sweetened condensed milk",
+      "1/2 cup sweet red bean paste",
+      "1/2 cup fresh fruit, chopped (mango, strawberry, etc.)",
+      "A few rice cakes (tteok), cubed (optional)",
+      "Crushed nuts, for topping"
+    ],
+    "steps": [
+      "Pile the shaved ice into a large bowl.",
+      "Drizzle generously with condensed milk.",
+      "Top with red bean paste, fresh fruit and rice cake cubes.",
+      "Sprinkle with crushed nuts and serve immediately while the ice is still cold, mixing everything together before eating."
+    ]
+  },
+  {
+    "id": "yakgwa",
+    "name": "Yakgwa",
+    "cuisine": "Korean",
+    "category": "Dessert",
+    "image_query": "yakgwa korean honey cookie",
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "servings": 6,
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "3 tbsp sesame oil",
+      "3 tbsp rice wine (or substitute mirin)",
+      "2 tbsp honey, plus 1 cup for syrup",
+      "1 tsp grated ginger",
+      "1 cup water, for syrup",
+      "1/2 cup sugar, for syrup",
+      "Oil, for deep frying",
+      "Pine nuts, for garnish"
+    ],
+    "steps": [
+      "Rub sesame oil into the flour until crumbly, then mix in rice wine and 2 tbsp honey to form a soft dough. Rest for 20 minutes.",
+      "Meanwhile, make a syrup by simmering water, sugar, remaining honey and ginger until slightly thickened; let it cool.",
+      "Roll out the dough and cut into small shapes, then deep fry on low-medium heat until golden and puffed.",
+      "Soak the fried cookies in the cooled syrup for at least a few hours.",
+      "Garnish with pine nuts before serving."
+    ]
+  },
+  {
+    "id": "songpyeon",
+    "name": "Songpyeon",
+    "cuisine": "Korean",
+    "category": "Dessert",
+    "image_query": "songpyeon korean rice cake",
+    "prep_time": "40 min",
+    "cook_time": "20 min",
+    "servings": 6,
+    "ingredients": [
+      "2 cups rice flour",
+      "3/4 cup hot water (plus a little natural food coloring, optional)",
+      "1/2 cup sesame seeds or sweet red bean, for filling",
+      "2 tbsp honey or sugar, for filling",
+      "1 tsp sesame oil, for brushing",
+      "Pine needles or a steamer liner"
+    ],
+    "steps": [
+      "Knead rice flour with hot water into a smooth, pliable dough.",
+      "Mix sesame seeds (or red bean) with honey for the filling.",
+      "Divide dough into small balls, flatten, fill with a small spoon of filling, and fold into half-moon shapes, sealing edges well.",
+      "Steam over pine needles or a lined steamer for about 20 minutes.",
+      "Brush lightly with sesame oil once done, and serve warm or at room temperature."
+    ]
+  },
+  {
+    "id": "mandu",
+    "name": "Mandu (Korean Dumplings)",
+    "cuisine": "Korean",
+    "category": "Snack",
+    "image_query": "mandu korean dumplings",
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "servings": 4,
+    "ingredients": [
+      "20 dumpling wrappers",
+      "200g minced pork or beef",
+      "1 cup cabbage, finely chopped and squeezed dry",
+      "1/2 cup tofu, crumbled",
+      "2 spring onions, chopped",
+      "1 clove garlic, minced",
+      "1 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "Oil, for pan-frying (if making fried mandu)"
+    ],
+    "steps": [
+      "Combine mince, cabbage, tofu, spring onions, garlic, soy sauce and sesame oil into a filling.",
+      "Place a spoonful of filling in the center of each wrapper, moisten edges with water, and fold into a sealed dumpling.",
+      "Steam for about 15 minutes, or pan-fry with a little oil until the bottoms are crisp then add a splash of water and cover to steam through.",
+      "Serve hot with a soy-vinegar dipping sauce."
+    ]
+  },
+  {
+    "id": "korean-corn-dog",
+    "name": "Korean Corn Dog",
+    "cuisine": "Korean",
+    "category": "Snack",
+    "image_query": "korean corn dog street food",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "servings": 4,
+    "ingredients": [
+      "4 sausages or mozzarella sticks (or half-and-half)",
+      "4 wooden skewers",
+      "1 cup all-purpose flour",
+      "1 tsp sugar",
+      "1/2 tsp baking powder",
+      "3/4 cup milk",
+      "1 egg",
+      "1 cup panko breadcrumbs (or cubed bread for extra crunch)",
+      "Oil, for deep frying",
+      "Sugar and ketchup/mustard, for serving"
+    ],
+    "steps": [
+      "Skewer the sausages and/or cheese sticks, patting them dry.",
+      "Mix flour, sugar, baking powder, milk and egg into a thick batter.",
+      "Coat each skewer in the batter, then roll in panko breadcrumbs to coat evenly.",
+      "Deep fry on medium heat, turning occasionally, until golden and crisp all over.",
+      "Roll the hot corn dog lightly in sugar and serve with ketchup and mustard."
+    ]
+  },
+  {
+    "id": "eomuk",
+    "name": "Eomuk (Fish Cake Skewers)",
+    "cuisine": "Korean",
+    "category": "Snack",
+    "image_query": "eomuk odeng korean fish cake",
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "servings": 4,
+    "ingredients": [
+      "8-10 Korean fish cakes (eomuk sheets), skewered in wavy folds",
+      "4 cups anchovy or vegetable broth",
+      "1 daikon radish, sliced",
+      "2 tbsp soy sauce",
+      "1 spring onion, chopped",
+      "1 tsp minced garlic",
+      "Salt and pepper, to taste"
+    ],
+    "steps": [
+      "Bring the broth to a boil with daikon radish, garlic and soy sauce, simmer for 10 minutes.",
+      "Add the skewered fish cakes and simmer for another 10 minutes until heated through and flavorful.",
+      "Season with salt and pepper to taste, garnish with spring onion.",
+      "Serve hot in cups with a little broth, as a street-food style snack."
     ]
   }
 ]
